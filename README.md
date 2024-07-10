@@ -1,0 +1,1 @@
+# ansible-shadow-dive
